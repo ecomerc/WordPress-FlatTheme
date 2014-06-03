@@ -1,0 +1,25 @@
+<?php
+
+$color_classes = array(
+    'turquoise',
+    'green-sea',
+    'sun-flower',
+    'orange',
+    'emerald',
+    'nephrits',
+    'carrot',
+    'pumkin',
+    'peter-river',
+    'belize-hole',
+    'alizarin',
+    'pomegranate',
+    'amethyst',
+    'wisteria',
+    'clouds',
+    'silver',
+    'belize-hole',
+    'wet-asphalt',
+    'midnight-blue',
+    'concrete',
+    'asbestos',
+    );

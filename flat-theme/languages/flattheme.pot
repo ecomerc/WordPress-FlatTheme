@@ -1,0 +1,1549 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flat Theme\n"
+"POT-Creation-Date: 2013-09-20 17:02+0600\n"
+"PO-Revision-Date: 2013-09-20 17:03+0600\n"
+"Last-Translator: \n"
+"Language-Team: ShapeBootstrap\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+
+#: ../page-contact.php:28 ../functions.php:1150
+msgid "Name"
+msgstr ""
+
+#: ../page-contact.php:31 ../functions.php:1157
+msgid "Email"
+msgstr ""
+
+#: ../page-contact.php:34 ../functions.php:1165
+msgid "Website"
+msgstr ""
+
+#: ../page-contact.php:36
+msgid "Send Message"
+msgstr ""
+
+#: ../page-contact.php:48
+msgid "Our Location"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: ../page.php:8 ../functions.php:1041 ../image.php:16
+#: ../post-templates/content-image.php:5
+#: ../post-templates/content-image.php:10
+#: ../post-templates/content-video.php:5
+#: ../post-templates/content-video.php:10 ../post-templates/content.php:13
+#: ../post-templates/content.php:21 ../post-templates/content-gallery.php:5
+#: ../post-templates/content-gallery.php:10
+#: ../post-templates/content-audio.php:5
+#: ../post-templates/content-audio.php:10
+#: ../post-templates/content-portfolio.php:13
+#: ../post-templates/content-portfolio.php:18
+msgid "Edit"
+msgstr ""
+
+#: ../search.php:11
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../functions.php:14
+msgid "Primary"
+msgstr ""
+
+#: ../functions.php:15 ../functions.php:1105
+msgid "Footer"
+msgstr ""
+
+#: ../functions.php:148
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:208 ../functions.php:209
+msgid "Slider"
+msgstr ""
+
+#: ../functions.php:210
+msgid "Sliders"
+msgstr ""
+
+#: ../functions.php:211
+msgid "All Sliders"
+msgstr ""
+
+#: ../functions.php:212 ../functions.php:356 ../functions.php:444
+#: ../functions.php:494 ../functions.php:582 ../functions.php:617
+#: ../functions.php:698 ../functions.php:743 ../functions.php:786
+msgid "Add New"
+msgstr ""
+
+#: ../functions.php:213
+msgid "Add New Slider"
+msgstr ""
+
+#: ../functions.php:214
+msgid "Edit Slider"
+msgstr ""
+
+#: ../functions.php:215
+msgid "New Slider"
+msgstr ""
+
+#: ../functions.php:216
+msgid "View Slider"
+msgstr ""
+
+#: ../functions.php:217 ../functions.php:449
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../functions.php:218 ../functions.php:500 ../functions.php:588
+#: ../functions.php:623 ../functions.php:704 ../functions.php:749
+#: ../functions.php:792
+msgid "No item found"
+msgstr ""
+
+#: ../functions.php:219 ../functions.php:501 ../functions.php:589
+#: ../functions.php:624 ../functions.php:705 ../functions.php:750
+#: ../functions.php:793
+msgid "No item found in Trash"
+msgstr ""
+
+#: ../functions.php:241
+msgid "Background Image"
+msgstr ""
+
+#: ../functions.php:242
+msgid "Show background image in slider"
+msgstr ""
+
+#: ../functions.php:250 ../functions.php:555
+msgid "Button Text"
+msgstr ""
+
+#: ../functions.php:251
+msgid "Show Slider Button and Button Text"
+msgstr ""
+
+#: ../functions.php:257 ../functions.php:562
+msgid "Button URL"
+msgstr ""
+
+#: ../functions.php:258
+msgid "Slider URL link."
+msgstr ""
+
+#: ../functions.php:264
+msgid "Boxed Style"
+msgstr ""
+
+#: ../functions.php:265
+msgid "Show boxed Style."
+msgstr ""
+
+#: ../functions.php:272
+msgid "No"
+msgstr ""
+
+#: ../functions.php:277
+msgid "Yes"
+msgstr ""
+
+#: ../functions.php:282
+msgid "Position"
+msgstr ""
+
+#: ../functions.php:283
+msgid "Show slider Position."
+msgstr ""
+
+#: ../functions.php:290
+msgid "Left"
+msgstr ""
+
+#: ../functions.php:295
+msgid "Center"
+msgstr ""
+
+#: ../functions.php:300
+msgid "Right"
+msgstr ""
+
+#: ../functions.php:311
+msgid "Video Type"
+msgstr ""
+
+#: ../functions.php:312
+msgid "Select video type."
+msgstr ""
+
+#: ../functions.php:319
+msgid "None"
+msgstr ""
+
+#: ../functions.php:324
+msgid "Youtube"
+msgstr ""
+
+#: ../functions.php:329
+msgid "Vimeo"
+msgstr ""
+
+#: ../functions.php:335
+msgid "Video Link"
+msgstr ""
+
+#: ../functions.php:336
+msgid "Video link"
+msgstr ""
+
+#: ../functions.php:343
+msgid "Slider Settings"
+msgstr ""
+
+#: ../functions.php:344
+msgid "Video Settings"
+msgstr ""
+
+#: ../functions.php:352 ../functions.php:353 ../functions.php:354
+#: ../admin/shortcodes/define.php:449
+msgid "Team"
+msgstr ""
+
+#: ../functions.php:355
+msgid "Team Members"
+msgstr ""
+
+#: ../functions.php:357
+msgid "Add New Member"
+msgstr ""
+
+#: ../functions.php:358
+msgid "Edit Member"
+msgstr ""
+
+#: ../functions.php:359
+msgid "New Member"
+msgstr ""
+
+#: ../functions.php:360
+msgid "View Member"
+msgstr ""
+
+#: ../functions.php:361
+msgid "Search Member"
+msgstr ""
+
+#: ../functions.php:362
+msgid "No Member found"
+msgstr ""
+
+#: ../functions.php:363
+msgid "No Member found in Trash"
+msgstr ""
+
+#: ../functions.php:388 ../functions.php:824
+msgid "Designation"
+msgstr ""
+
+#: ../functions.php:394
+msgid "Facebook"
+msgstr ""
+
+#: ../functions.php:395
+msgid "Facebook link of team member"
+msgstr ""
+
+#: ../functions.php:401
+msgid "Twitter"
+msgstr ""
+
+#: ../functions.php:402
+msgid "Twitter link of team member"
+msgstr ""
+
+#: ../functions.php:408
+msgid "Google Plus"
+msgstr ""
+
+#: ../functions.php:409
+msgid "Google Plus link of team member"
+msgstr ""
+
+#: ../functions.php:415
+msgid "Pinterest"
+msgstr ""
+
+#: ../functions.php:416
+msgid "Pinterest link of team member"
+msgstr ""
+
+#: ../functions.php:422
+msgid "Linkedin"
+msgstr ""
+
+#: ../functions.php:423
+msgid "Linkedin link of team member"
+msgstr ""
+
+#: ../functions.php:428
+msgid "Team Social Settings"
+msgstr ""
+
+#: ../functions.php:440 ../functions.php:441 ../sub-title.php:44
+#: ../admin/shortcodes/define.php:404
+msgid "Portfolio"
+msgstr ""
+
+#: ../functions.php:442
+msgid "Portfolios"
+msgstr ""
+
+#: ../functions.php:443
+msgid "All Portfolios"
+msgstr ""
+
+#: ../functions.php:445
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../functions.php:446
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../functions.php:447
+msgid "New Portfolio"
+msgstr ""
+
+#: ../functions.php:448
+msgid "View Portfolio"
+msgstr ""
+
+#: ../functions.php:450
+msgid "No Portfolio item found"
+msgstr ""
+
+#: ../functions.php:451
+msgid "No Portfolio item found in Trash"
+msgstr ""
+
+#: ../functions.php:474 ../functions.php:524 ../functions.php:645
+#: ../functions.php:726 ../functions.php:771 ../functions.php:814
+msgid "Categories"
+msgstr ""
+
+#: ../functions.php:476
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../functions.php:490 ../functions.php:491 ../functions.php:492
+msgid "Pricing Tables"
+msgstr ""
+
+#: ../functions.php:493 ../functions.php:581 ../functions.php:616
+#: ../functions.php:697 ../functions.php:742 ../functions.php:785
+msgid "All Items"
+msgstr ""
+
+#: ../functions.php:495 ../functions.php:583 ../functions.php:618
+#: ../functions.php:699 ../functions.php:744 ../functions.php:787
+msgid "Add New Item"
+msgstr ""
+
+#: ../functions.php:496 ../functions.php:584 ../functions.php:619
+#: ../functions.php:700 ../functions.php:745 ../functions.php:788
+msgid "Edit Item"
+msgstr ""
+
+#: ../functions.php:497 ../functions.php:585 ../functions.php:620
+#: ../functions.php:701 ../functions.php:746 ../functions.php:789
+msgid "New Item"
+msgstr ""
+
+#: ../functions.php:498 ../functions.php:586 ../functions.php:621
+#: ../functions.php:702 ../functions.php:747 ../functions.php:790
+msgid "View Item"
+msgstr ""
+
+#: ../functions.php:499 ../functions.php:587 ../functions.php:622
+#: ../functions.php:703 ../functions.php:748 ../functions.php:791
+msgid "Search Items"
+msgstr ""
+
+#: ../functions.php:526 ../functions.php:647 ../functions.php:728
+#: ../functions.php:773 ../functions.php:816 ../sub-title.php:16
+#: ../admin/shortcodes/define.php:309 ../admin/shortcodes/define.php:332
+#: ../admin/shortcodes/define.php:374 ../admin/shortcodes/define.php:394
+msgid "Category"
+msgstr ""
+
+#: ../functions.php:535
+msgid "Featured"
+msgstr ""
+
+#: ../functions.php:541
+msgid "Price"
+msgstr ""
+
+#: ../functions.php:542
+msgid "Price with currency symbol. eg. $49"
+msgstr ""
+
+#: ../functions.php:548
+msgid "Price duration"
+msgstr ""
+
+#: ../functions.php:549
+msgid "Pricing duration. eg. Moth, Day, Year etc."
+msgstr ""
+
+#: ../functions.php:556
+msgid "Pricing table button text, eg. Sign up"
+msgstr ""
+
+#: ../functions.php:563
+msgid "Pricing table button url, eg. http://www.zeetheme.com/buy-now"
+msgstr ""
+
+#: ../functions.php:570
+msgid "Price Settings"
+msgstr ""
+
+#: ../functions.php:578 ../functions.php:579 ../functions.php:580
+#: ../admin/shortcodes/define.php:291
+msgid "Faq"
+msgstr ""
+
+#: ../functions.php:613 ../functions.php:615
+msgid "Services"
+msgstr ""
+
+#: ../functions.php:614 ../admin/shortcodes/define.php:327
+msgid "Service"
+msgstr ""
+
+#: ../functions.php:657 ../admin/shortcodes/define.php:254
+msgid "Icon"
+msgstr ""
+
+#: ../functions.php:664
+msgid "Icon Color"
+msgstr ""
+
+#: ../functions.php:670 ../admin/themeoptions/functions/functions.php:371
+msgid "Styling Options"
+msgstr ""
+
+#: ../functions.php:680
+msgid "Subtitle"
+msgstr ""
+
+#: ../functions.php:686
+msgid "Subtitle Options"
+msgstr ""
+
+#: ../functions.php:694 ../functions.php:695 ../functions.php:696
+msgid "Tabs"
+msgstr ""
+
+#: ../functions.php:739 ../functions.php:741
+msgid "Accordions"
+msgstr ""
+
+#: ../functions.php:740 ../admin/shortcodes/define.php:390
+msgid "Accordion"
+msgstr ""
+
+#: ../functions.php:782 ../functions.php:784
+msgid "Testimonials"
+msgstr ""
+
+#: ../functions.php:783 ../admin/shortcodes/define.php:455
+msgid "Testimonial"
+msgstr ""
+
+#: ../functions.php:830
+msgid "Testimonial Settings"
+msgstr ""
+
+#: ../functions.php:915
+msgid "Next page"
+msgstr ""
+
+#: ../functions.php:916
+msgid "Previous page"
+msgstr ""
+
+#: ../functions.php:1012
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:1012
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:1036 ../post-templates/content-image.php:17
+#: ../post-templates/content-video.php:17 ../post-templates/content.php:28
+#: ../post-templates/content-gallery.php:17
+#: ../post-templates/content-audio.php:17
+msgid "By"
+msgstr ""
+
+#: ../functions.php:1045
+#, php-format
+msgid "%s Reply"
+msgstr ""
+
+#: ../functions.php:1050
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:1073
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:1075
+msgid "Widgets in this area will be shown on right side."
+msgstr ""
+
+#: ../functions.php:1084
+msgid "Contact Page Address"
+msgstr ""
+
+#: ../functions.php:1086
+msgid "Widgets in this area will be shown on Contact Page."
+msgstr ""
+
+#: ../functions.php:1095
+msgid "Bottom"
+msgstr ""
+
+#: ../functions.php:1097
+msgid "Widgets in this area will be shown before Footer."
+msgstr ""
+
+#: ../functions.php:1107
+msgid "Widgets in this area will be shown at page Footer."
+msgstr ""
+
+#: ../functions.php:1170
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ../functions.php:1187
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../functions.php:1190
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../functions.php:1192
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../functions.php:1194
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: ../functions.php:1200
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../functions.php:1202
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../functions.php:1204
+msgid "Cancel reply"
+msgstr ""
+
+#: ../functions.php:1206
+msgid "Post Comment"
+msgstr ""
+
+#: ../functions.php:1301
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+
+#: ../functions.php:1303
+msgid "Password:"
+msgstr ""
+
+#: ../sub-title.php:22
+msgid "Daily Archives"
+msgstr ""
+
+#: ../sub-title.php:25
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../sub-title.php:28
+msgid "Yearly Archives"
+msgstr ""
+
+#: ../sub-title.php:31
+msgid "Blog Archives"
+msgstr ""
+
+#: ../sub-title.php:38
+msgid "Tag"
+msgstr ""
+
+#: ../sub-title.php:40
+msgid "Author: "
+msgstr ""
+
+#: ../sub-title.php:42
+msgid "Search results for"
+msgstr ""
+
+#: ../comments.php:36
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:38
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:39
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: ../404.php:4
+msgid "404, Page not found"
+msgstr ""
+
+#: ../404.php:5
+msgid "The Page you are looking for doesnt exist or an other error occurred"
+msgstr ""
+
+#: ../404.php:6
+msgid "GO BACK TO THE HOMEPAGE"
+msgstr ""
+
+#: ../header.php:26
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../tag.php:13
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../image.php:20
+#, php-format
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: ../image.php:39
+msgid "Full resolution"
+msgstr ""
+
+#: ../image.php:78
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../image.php:79
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../author.php:9
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../author-bio.php:7
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../author-bio.php:11
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../category.php:15
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../admin/plugin-setup.php:60 ../admin/class-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../admin/plugin-setup.php:61 ../admin/class-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: ../admin/plugin-setup.php:62 ../admin/class-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../admin/plugin-setup.php:63
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../admin/plugin-setup.php:64 ../admin/class-plugin-activation.php:168
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugin-setup.php:65 ../admin/class-plugin-activation.php:169
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugin-setup.php:66 ../admin/class-plugin-activation.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugin-setup.php:67 ../admin/class-plugin-activation.php:171
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugin-setup.php:68 ../admin/class-plugin-activation.php:172
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugin-setup.php:69 ../admin/class-plugin-activation.php:173
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugin-setup.php:70 ../admin/class-plugin-activation.php:174
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugin-setup.php:71 ../admin/class-plugin-activation.php:175
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugin-setup.php:72 ../admin/class-plugin-activation.php:176
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugin-setup.php:73 ../admin/class-plugin-activation.php:177
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/plugin-setup.php:74 ../admin/class-plugin-activation.php:178
+#: ../admin/class-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../admin/plugin-setup.php:75 ../admin/class-plugin-activation.php:179
+#: ../admin/class-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../admin/plugin-setup.php:76
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:517
+#: ../admin/class-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/class-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1956
+#: ../admin/class-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1956
+#: ../admin/class-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../admin/class-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../admin/shortcodes/shortcodes.php:27
+msgid "Choose a shortcode"
+msgstr ""
+
+#: ../admin/shortcodes/shortcodes.php:71
+msgid "Content: "
+msgstr ""
+
+#: ../admin/shortcodes/shortcodes.php:83
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../admin/shortcodes/generate.shortcode.php:149
+#: ../admin/shortcodes/generate.shortcode.php:194
+msgid "Remove"
+msgstr ""
+
+#: ../admin/shortcodes/generate.shortcode.php:150
+#: ../admin/shortcodes/generate.shortcode.php:195
+msgid "Add"
+msgstr ""
+
+#: ../admin/shortcodes/generate.shortcode.php:229
+msgid "Remove Column"
+msgstr ""
+
+#: ../admin/shortcodes/generate.shortcode.php:229
+msgid "Add Column"
+msgstr ""
+
+#: ../admin/shortcodes/generate.shortcode.php:243 ../lib/widgets.php:157
+#: ../lib/widgets.php:169
+msgid "Upload"
+msgstr ""
+
+#: ../admin/shortcodes/generate.shortcode.php:244
+msgid "Remove Upload"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:13
+msgid "Basic"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:23
+msgid "Container"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:29
+msgid "Select the color class"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:36
+msgid "Select the ID"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:45
+msgid "Divider"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:49
+msgid "Divider Size"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:68
+msgid "Dropcap"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:81 ../admin/shortcodes/define.php:90
+msgid "Columns"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:100
+msgid "Blocknumber"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:105
+msgid "Number. eg. 01,II,A"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:110
+msgid "Number Color. eg. #fff"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:114 ../admin/shortcodes/define.php:229
+msgid "Background Color. eg. #000"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:119 ../admin/shortcodes/define.php:239
+msgid "Type Border Radius. eg. 4px, 100%"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:130
+msgid "Elements"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:139
+msgid "Button"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:144
+msgid "Button Size"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:157
+msgid "Button Type"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:171
+msgid "Link URL"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:175
+msgid "Text"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:180
+msgid "Select Icon"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:192
+msgid "Alert"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:196
+msgid "Show Close Button"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:201
+msgid "Alert Type"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:206
+msgid "Alert Title"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:215
+msgid "Progress Bars"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:225
+msgid "Block"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:234
+msgid "Text Color. eg. #fff"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:244
+msgid "Block Padding. eg. 15px"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:258
+msgid "Select size"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:261
+msgid "Large Icon"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:262
+msgid "2x Large Icon"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:263
+msgid "3x Large Icon"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:264
+msgid "4x Large Icon"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:284
+msgid "Post Types"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:295 ../admin/shortcodes/define.php:317
+#: ../admin/shortcodes/define.php:359 ../admin/shortcodes/define.php:381
+msgid "All categories"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:304
+msgid "Pricing table"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:338
+msgid "Number of Items"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:344
+msgid "Number of Column"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:369
+msgid "Tab"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:408
+msgid "Column Number"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:423
+msgid "Recent Works"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:427
+msgid "Title"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:432
+msgid "Description"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:438
+msgid "Items per Slide"
+msgstr ""
+
+#: ../admin/shortcodes/define.php:459
+msgid "Count. eg. 2"
+msgstr ""
+
+#: ../admin/themeoptions/front-end/options.php:43
+#: ../admin/themeoptions/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/themeoptions/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:114
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:119
+msgid "Favicon"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:129
+msgid "Logo option heading"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:137
+msgid "Show Logo"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:147
+msgid "Upload Standard Logo"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:157
+msgid "Logo Margin from Top"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:166
+msgid "Logo Margin from Bottom"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:177
+msgid "Apple Icon options"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:186
+msgid "Show Apple Icon"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:195
+msgid "Apple iPhone Icon Upload"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:204
+msgid "Apple iPhone Retina Icon Upload"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:213
+msgid "Apple iPad Icon Upload"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:222
+msgid "Apple iPad Retina Icon Upload"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:233
+msgid "Theme Layout"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:243
+msgid "Theme Layout Style"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:255
+msgid "Header and Footer"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:261
+msgid "Header"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:270
+msgid "Header Background Color"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:280
+msgid "Footer section"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:289
+msgid "Show Copyright"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:298
+msgid "Copyright Text"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:308
+msgid "Google Analytics Code"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:319
+msgid "Blog"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:325
+msgid "Blog Title"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:333
+msgid "Blog Sub Title"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:343
+msgid "Author BIO on Single Post?"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:351
+msgid "Show Comments On Page"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:361
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:376
+msgid "General"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:385
+msgid "Link Color"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:392
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:400
+msgid "Body Section"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:408
+msgid "Body Background Color"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:417
+msgid "Body Font Style"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:425
+msgid "Heading Font"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:436
+msgid "Contact"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:441
+msgid "Contact Details"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:449
+msgid "Google Map Location"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:456
+msgid "Google Map Height"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:465
+msgid "Contact Email Address"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:477
+msgid "Advanced Settings"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:483
+msgid "Exclude Pages from Search"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:491
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:499
+msgid "Allow Comments on pages"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:506
+msgid "WP Admin Logo Login"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:519
+#: ../admin/themeoptions/functions/functions.php:524
+#: ../admin/themeoptions/functions/functions.php:533
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:544
+msgid "Backup Options"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:550
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: ../admin/themeoptions/functions/functions.php:558
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: ../admin/themeoptions/classes/class.options_machine.php:614
+msgid "Last Backup : "
+msgstr ""
+
+#: ../post-templates/content-image.php:16
+#: ../post-templates/content-video.php:16 ../post-templates/content.php:27
+#: ../post-templates/content-gallery.php:16
+#: ../post-templates/content-audio.php:16
+msgid "Posted On"
+msgstr ""
+
+#: ../post-templates/content-image.php:18
+#: ../post-templates/content-video.php:18 ../post-templates/content.php:29
+#: ../post-templates/content-gallery.php:18
+#: ../post-templates/content-audio.php:18
+msgid "In"
+msgstr ""
+
+#: ../post-templates/content-image.php:21
+#: ../post-templates/content-video.php:21 ../post-templates/content.php:32
+#: ../post-templates/content-gallery.php:21
+#: ../post-templates/content-audio.php:21
+msgid "Leave a comment"
+msgstr ""
+
+#: ../post-templates/content-image.php:21
+#: ../post-templates/content-video.php:21 ../post-templates/content.php:32
+#: ../post-templates/content-gallery.php:21
+#: ../post-templates/content-audio.php:21
+msgid "One comment so far"
+msgstr ""
+
+#: ../post-templates/content-image.php:21
+#: ../post-templates/content-video.php:21 ../post-templates/content.php:32
+#: ../post-templates/content-gallery.php:21
+#: ../post-templates/content-audio.php:21
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: ../post-templates/content-image.php:30
+#: ../post-templates/content-video.php:31 ../post-templates/content.php:46
+#: ../post-templates/content-gallery.php:32
+#: ../post-templates/content-audio.php:31
+#: ../post-templates/content-portfolio.php:26
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../post-templates/content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: ../post-templates/content-none.php:8
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../post-templates/content-none.php:12
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../post-templates/content-none.php:17
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../post-templates/content.php:19
+msgid "Sticky"
+msgstr ""
+
+#: ../lib/widgets.php:17
+msgid "Recent Posts Widget"
+msgstr ""
+
+#: ../lib/widgets.php:36
+msgid "Posted"
+msgstr ""
+
+#: ../lib/widgets.php:48
+msgid "Title:"
+msgstr ""
+
+#: ../lib/widgets.php:52
+msgid "Number of posts:"
+msgstr ""
+
+#: ../lib/widgets.php:91
+msgid "Display Advertise image with link."
+msgstr ""
+
+#: ../lib/shortcodes.php:270
+msgid "All"
+msgstr ""
+
+#: ../lib/shortcodes.php:314
+msgid "No portfolio item found!"
+msgstr ""
+
+#: ../lib/shortcodes.php:380
+msgid "No Team found!"
+msgstr ""
+
+#: ../lib/shortcodes.php:454
+msgid "No accordion item found!"
+msgstr ""
+
+#: ../lib/shortcodes.php:537
+msgid "No Tab Item found!"
+msgstr ""
+
+#: ../lib/shortcodes.php:603
+msgid "No pricing table found!"
+msgstr ""
