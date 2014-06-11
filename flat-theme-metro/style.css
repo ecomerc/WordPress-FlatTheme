@@ -1,0 +1,97 @@
+/*
+Theme Name: Flat Theme Metro
+Theme URI: http://shapebootstrap.net/
+Author: the ShapeBootstrap team
+Author URI: http://shapebootstrap.net/
+Description: The "Flat Theme" theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, right-sidebar, flexible-width, custom-menu, featured-images, flexible-header, full-width-template, post-formats, sticky-post, theme-options, translation-ready
+Template:     flat-theme
+Text Domain: flattheme-metro
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+@import url("../flat-theme/style.css");
+
+.zee_portfolio .entry-thumbnail, 
+.zee_team .entry-thumbnail {
+	float: right !important;
+}
+
+.portfolio-item img {
+	width: auto !important;
+}
+
+.navbar .navbar-main {
+margin-top: 12px !important;
+}
+
+body {
+  padding-top: 56px !important;
+}
+
+.navbar-header {
+	height: 60px;
+}
+
+.navbar-brand {
+margin-bottom: 0 !important;
+padding: 0 !important;
+margin-top: 10px !important;
+}
+
+.navbar-brand a {
+    font-family: "Segoe UI Light","Open Sans",Verdana,Arial,Helvetica,sans-serif;
+    font-weight: 200;
+    letter-spacing: 0.01em;
+    line-height: 24pt;
+    font-size: 16pt;
+    color: #FFF;
+    margin-left: -12px;
+	float: left;
+}
+.navbar-brand a:hover {
+    color: #FFF;
+}
+
+.navbar-brand a img {
+	float: left;
+}
+
+.navbar-brand a span {
+	margin-left: -8px !important;
+}
+
+
+.navbar .navbar-main > li:focus > a, .navbar .navbar-main > li:active > a, .navbar .navbar-main > li:hover > a, .navbar .navbar-main > li.active > a, .navbar .navbar-main > li.active:hover > a, .navbar .navbar-main > li.open > a, .navbar .navbar-main > li.open:hover > a {
+	color: #464646 !important;
+	background-color: #ffffff !important;
+}
+
+.slider-copyright {
+	position: absolute;
+	bottom: 0;
+	right: 20px;
+	font-size: small;
+	text-align: right;
+}
+
+.pricing-tables .plan li.plan-price > div {
+	height: 90px;
+	width: 90px;
+	padding-top: 22px;
+}
+
+.pricing-tables .plan li.plan-details > a {
+	color: #2c3e50;
+}
+
+footer .widget {
+	margin-bottom: 0;
+}
+.icon-md {
+border-radius: 100% !important;
+}

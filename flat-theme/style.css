@@ -1742,3 +1742,7 @@ ul#menu-company-menu li:before{
   font-family: FontAwesome;
   margin-right: 5px;
 }
+
+.servicelink {
+	cursor: pointer
+}

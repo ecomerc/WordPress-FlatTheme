@@ -6,6 +6,10 @@ jQuery(function($) {
 			interval: 8000
 		});
 	});
+	
+	$( ".services[data-target]" ).click(function() {
+		window.location = $(this).data( "target" );
+	});
 
 	$( '.centered' ).each(function( e ) {
 		$(this).css('margin-top',  ($('#main-slider').height() - $(this).height())/2);

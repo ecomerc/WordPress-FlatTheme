@@ -193,9 +193,13 @@ add_shortcode( 'zee_service', function( $atts, $content= null ){
       <?php foreach ($posts as $key => $post) {
         $icon = get_post_meta( $post->ID, 'service_icon', true );
         $color = get_post_meta($post->ID, 'service_color', true);
+        $url = get_post_meta($post->ID, 'service_url', true);
+		if ($url != "") {
+			$url = ' servicelink" data-target="'.$url.'';
+		}
         ?>
         <div class="col-sm-<?php echo (12/$column); ?>">
-          <div class="media services">
+          <div class="media services<?php echo $url; ?>">
             <?php if( $icon ) { ?>
             <div class="pull-left">
               <i style="background-color:<?php echo  $color ?>;" class="<?php echo $icon; ?> icon-md"></i>

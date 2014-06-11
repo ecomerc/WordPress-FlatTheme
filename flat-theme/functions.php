@@ -662,6 +662,12 @@ $fields = array(
         'id'    => $prefix.'color',
         'type'  => 'color'
         ),  
+		
+    array( 
+        'label' => __('Url', ZEETEXTDOMAIN), 
+        'id'    => $prefix.'url',
+        'type'  => 'text'
+        )
     );
 
 new Custom_Add_Meta_Box( 'zee_service_box', __('Styling Options', ZEETEXTDOMAIN), $fields, 'zee_service', true );
